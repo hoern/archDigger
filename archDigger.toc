@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: archDigger
+## Notes: Archeology Info Bar
+## Version: 1.0
+## SavedVariablesPerCharacter: archDB
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+
+archDigger.xml
+archDigger.lua
